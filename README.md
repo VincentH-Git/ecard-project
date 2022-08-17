@@ -9,3 +9,10 @@ OR you can run the following to start your application in iOS Simulator:
 $ yarn install
 $ yarn ios
 ```
+
+# Demo Account
+```
+email: dickson@tecky.io
+password: tecky
+```
+
